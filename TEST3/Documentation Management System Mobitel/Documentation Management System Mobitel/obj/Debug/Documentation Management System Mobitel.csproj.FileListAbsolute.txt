@@ -1,0 +1,26 @@
+E:\TEST3\Documentation Management System Mobitel\Documentation Management System Mobitel\bin\Debug\Documentation Management System Mobitel.exe.config
+E:\TEST3\Documentation Management System Mobitel\Documentation Management System Mobitel\bin\Debug\Documentation Management System Mobitel.exe
+E:\TEST3\Documentation Management System Mobitel\Documentation Management System Mobitel\bin\Debug\Documentation Management System Mobitel.pdb
+E:\TEST3\Documentation Management System Mobitel\Documentation Management System Mobitel\obj\Debug\Documentation_Management_System_Mobitel.Properties.Resources.resources
+E:\TEST3\Documentation Management System Mobitel\Documentation Management System Mobitel\obj\Debug\Documentation_Management_System_Mobitel.Register.resources
+E:\TEST3\Documentation Management System Mobitel\Documentation Management System Mobitel\obj\Debug\Documentation Management System Mobitel.csproj.GenerateResource.cache
+E:\TEST3\Documentation Management System Mobitel\Documentation Management System Mobitel\obj\Debug\Documentation Management System Mobitel.csproj.CoreCompileInputs.cache
+E:\TEST3\Documentation Management System Mobitel\Documentation Management System Mobitel\obj\Debug\Documentation Management System Mobitel.exe
+E:\TEST3\Documentation Management System Mobitel\Documentation Management System Mobitel\obj\Debug\Documentation Management System Mobitel.pdb
+E:\TEST3\Documentation Management System Mobitel\Documentation Management System Mobitel\obj\Debug\Documentation_Management_System_Mobitel.Form4.resources
+E:\TEST3\Documentation Management System Mobitel\Documentation Management System Mobitel\obj\Debug\Documentation_Management_System_Mobitel.UserControl1.resources
+E:\TEST3\Documentation Management System Mobitel\Documentation Management System Mobitel\obj\Debug\Documentation_Management_System_Mobitel.Health.resources
+E:\TEST3\Documentation Management System Mobitel\Documentation Management System Mobitel\obj\Debug\Documentation_Management_System_Mobitel.Music.resources
+E:\TEST3\Documentation Management System Mobitel\Documentation Management System Mobitel\obj\Debug\Documentation_Management_System_Mobitel.Payment.resources
+E:\TEST3\Documentation Management System Mobitel\Documentation Management System Mobitel\obj\Debug\Documentation_Management_System_Mobitel.Contact.resources
+E:\TEST3\Documentation Management System Mobitel\Documentation Management System Mobitel\obj\Debug\Documentation Management System Mobitel.csprojAssemblyReference.cache
+E:\TEST3\Documentation Management System Mobitel\Documentation Management System Mobitel\obj\Debug\Documentation_Management_System_Mobitel.Form3.resources
+E:\TEST3\Documentation Management System Mobitel\Documentation Management System Mobitel\obj\Debug\Documentation_Management_System_Mobitel.TNT.resources
+E:\TEST3\Documentation Management System Mobitel\Documentation Management System Mobitel\obj\Debug\Documentation_Management_System_Mobitel.VAS.resources
+E:\TEST3\Documentation Management System Mobitel\Documentation Management System Mobitel\obj\Debug\Documentation_Management_System_Mobitel.Admin.resources
+E:\TEST3\Documentation Management System Mobitel\Documentation Management System Mobitel\obj\Debug\Documentation_Management_System_Mobitel.Home.resources
+E:\TEST3\Documentation Management System Mobitel\Documentation Management System Mobitel\obj\Debug\Documentation_Management_System_Mobitel.AdminHome.resources
+E:\TEST3\Documentation Management System Mobitel\Documentation Management System Mobitel\obj\Debug\Documentation_Management_System_Mobitel.CustomerHome.resources
+E:\TEST3\Documentation Management System Mobitel\Documentation Management System Mobitel\obj\Debug\Documentation_Management_System_Mobitel.ServiceDetail.resources
+E:\TEST3\Documentation Management System Mobitel\Documentation Management System Mobitel\obj\Debug\Documentation_Management_System_Mobitel.Transaction.resources
+E:\TEST3\Documentation Management System Mobitel\Documentation Management System Mobitel\obj\Debug\Documentation_Management_System_Mobitel.Form5.resources
